@@ -1,3 +1,7 @@
+  sudo pip3 install -U scikit-learn
+  sudo pip3 install pandas
+  
+
 ## Tutorial: Machine Learning with Text in scikit-learn
 
 Presented by [Kevin Markham](http://www.dataschool.io/about/) at PyCon on May 28, 2016. Watch the complete [tutorial video](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10) on YouTube.
